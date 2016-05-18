@@ -1,0 +1,73 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     848 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 88)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Hizukuri Takeshi\Documents\Unity\ActionGame\ActionGame\ActionGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Hizukuri Takeshi\Documents\Unity\ActionGame\ActionGame\ActionGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Hizukuri Takeshi\Documents\Unity\ActionGame\ActionGame\ActionGame_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Hizukuri Takeshi\Documents\Unity\ActionGame\ActionGame\ActionGame_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Hizukuri Takeshi\Documents\Unity\ActionGame\ActionGame\ActionGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Hizukuri Takeshi\Documents\Unity\ActionGame\ActionGame\ActionGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Hizukuri Takeshi\Documents\Unity\ActionGame\ActionGame\ActionGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Hizukuri Takeshi\Documents\Unity\ActionGame\ActionGame\ActionGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Hizukuri Takeshi\Documents\Unity\ActionGame\ActionGame\ActionGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Hizukuri Takeshi\Documents\Unity\ActionGame\ActionGame\ActionGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.081 seconds
+Platform assembly: C:\Users\Hizukuri Takeshi\Documents\Unity\ActionGame\ActionGame\ActionGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Hizukuri Takeshi\Documents\Unity\ActionGame\ActionGame\ActionGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.509166 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.291335 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.660134 ms (FindLiveObjects: 0.120285 ms CreateObjectMapping: 0.075127 ms MarkObjects: 0.446657 ms  DeleteObjects: 0.016010 ms)
+
+OK1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+IS PAUSED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.420598 ms
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 291.
+Total: 1.163855 ms (FindLiveObjects: 0.054600 ms CreateObjectMapping: 0.062400 ms MarkObjects: 0.677376 ms  DeleteObjects: 0.367425 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.526300 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 344.
+Total: 0.382204 ms (FindLiveObjects: 0.063221 ms CreateObjectMapping: 0.031200 ms MarkObjects: 0.277519 ms  DeleteObjects: 0.008210 ms)
+
+OK1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+IS PAUSED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.240268 ms
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 291.
+Total: 1.214351 ms (FindLiveObjects: 0.057474 ms CreateObjectMapping: 0.072253 ms MarkObjects: 0.855957 ms  DeleteObjects: 0.221686 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: a9c -> priority: 1 
